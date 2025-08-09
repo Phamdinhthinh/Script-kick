@@ -1,1 +1,1 @@
-game.Player.LocalPlayer:Kick("Phạm Đình Thịnh ")
+game.Players.LocalPlayer:Kick("Phạm Đình Thịnh")
